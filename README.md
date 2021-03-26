@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SilverZickZack
+- 💞️ I’m looking to collaborate on ...- 👀 I’m interested in HTML, CSS, JS, Python 
+- 🌱 I’m currently learning JS & Python
